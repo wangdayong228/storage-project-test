@@ -31,6 +31,6 @@ COPY ./pos_config ./pos_config
 COPY ./launch_node.sh .
 COPY ./check_healthy.sh .
 COPY ./check_ready.sh .
-COPY ../make_sure_ready.sh .
+COPY ./make_sure_ready.sh .
 
 # COPY --from=builder /app/run/config.toml ./config.toml
