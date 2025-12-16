@@ -16,5 +16,3 @@
 [submodule "storage-kv/stc-storage-kv"]
 	path = storage-kv/stc-storage-kv
 	url = https://github.com/TreeGraphInstitute/0g-storage-kv.git
-[submodule "stc-conflux-rust"]
-	url = https://github.com/Conflux-Chain/conflux-rust.git
