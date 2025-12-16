@@ -32,6 +32,6 @@ COPY ./launch_node.sh .
 COPY ./check_healthy.sh .
 COPY ./check_ready.sh .
 COPY ./make_sure_ready.sh .
-COPY ./launch_signle_chain.sh .
+COPY ./launch_signle_node.sh .
 
 # COPY --from=builder /app/run/config.toml ./config.toml
